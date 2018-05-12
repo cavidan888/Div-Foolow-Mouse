@@ -1,0 +1,19 @@
+.cavo{
+
+	width:60px;
+	height:60px;
+	background-color:orange;
+	border-radius:100%;
+	position: absolute;
+	margin:30px;
+}
+
+.cavo2{
+
+	width:60px;
+	height:60px;
+	background-color:blue;
+	border-radius:100%;
+	position: absolute;
+	margin:30px;
+}
